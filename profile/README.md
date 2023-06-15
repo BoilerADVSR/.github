@@ -1,4 +1,4 @@
-# CS 30700 Project Charter
+# CS 30700: BoilerADVSR
 Team 15: Frederick Clarke, Brandon Hart, Garrett O’Brien, Abdul Saleh
 
 ## Problem Statement
